@@ -5,7 +5,7 @@
 - recipe_id: "transparency/departmentexpenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-05-11T17:55:36+02:00"
+- last_updated: "2026-05-11T17:59:47+02:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -22,7 +22,7 @@
 ---
 - [CRUMB: transparency/expensesdepartmenttotalpulse]
 - [SOURCE: monthly-report-january-2025-spending-over-500-county-fund.csv ]
-- [REF: Derbyshire Council Council January 2026 Expenses]
+- [REF: Derbyshire Council Council January 2025 Expenses]
 - [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
 - [SOURCE URL: https://www.derbyshire.gov.uk/site-elements/documents/csv/council/spending/2025/monthly-report-january-2025-spending-over-500-county-fund.csv ]
 
@@ -42,7 +42,7 @@
 ---
 - [CRUMB: transparency/expensesdepartmentledger]
 - [SOURCE: monthly-report-january-2025-spending-over-500-county-fund.csv ]
-- [REF: Derbyshire Council Council January 2026 Expenses]
+- [REF: Derbyshire Council Council January 2025 Expenses]
 - [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
 - [SOURCE URL: https://www.derbyshire.gov.uk/site-elements/documents/csv/council/spending/2025/monthly-report-january-2025-spending-over-500-county-fund.csv ]
 
@@ -65,7 +65,7 @@
 ---
 - [CRUMB: transparency/expensesdepartmentsectormix]
 - [SOURCE: monthly-report-january-2025-spending-over-500-county-fund.csv ]
-- [REF: Derbyshire Council Council January 2026 Expenses]
+- [REF: Derbyshire Council Council January 2025 Expenses]
 - [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
 - [SOURCE URL: https://www.derbyshire.gov.uk/site-elements/documents/csv/council/spending/2025/monthly-report-january-2025-spending-over-500-county-fund.csv ]
 
@@ -82,7 +82,7 @@ These entities represent the primary external dependencies for this department.
 ---
 - [CRUMB: transparency/expensesdepartmenttopsuppliers]
 - [SOURCE: monthly-report-january-2025-spending-over-500-county-fund.csv ]
-- [REF: Derbyshire Council Council January 2026 Expenses]
+- [REF: Derbyshire Council Council January 2025 Expenses]
 - [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
 - [SOURCE URL: https://www.derbyshire.gov.uk/site-elements/documents/csv/council/spending/2025/monthly-report-january-2025-spending-over-500-county-fund.csv ]
 
@@ -101,7 +101,7 @@ These entities represent the primary external dependencies for this department.
 ---
 - [CRUMB: transparency/expensesdepartmentdailybreakdown]
 - [SOURCE: monthly-report-january-2025-spending-over-500-county-fund.csv ]
-- [REF: Derbyshire Council Council January 2026 Expenses]
+- [REF: Derbyshire Council Council January 2025 Expenses]
 - [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
 - [SOURCE URL: https://www.derbyshire.gov.uk/site-elements/documents/csv/council/spending/2025/monthly-report-january-2025-spending-over-500-county-fund.csv ]
 
