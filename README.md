@@ -1,5 +1,5 @@
 ﻿# 🏛️ ApiCrumbs Archive: DERBYSHIRE-COUNTY-COUNCIL-EXPENSES-2025-01-DEPARTMENT-DOSSIER
-![Last Sync](https://shields.io/badge/Synchronised-2026--05--12-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/10_UPDATED-emerald?style=for-the-badge)
+![Last Sync](https://shields.io/badge/Synchronised-2026--05--13-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/10_UPDATED-emerald?style=for-the-badge)
 
 📦 **Books in Shard:** 10 | 🛡️ **Tier:** PUBLIC_SNAPSHOT
 ⚡ **Latest Press Run:** 10 printed / 10 skipped (up-to-date).
